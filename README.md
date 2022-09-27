@@ -9,15 +9,15 @@
 ---------
 
 # Media Sosial Me
-[![TIKTOK](https://img.shields.io/badge/TikTok%20Owner-1b1e23?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@guaabuzz) 
+[![TIKTOK](https://img.shields.io/badge/TikTok%20Owner-1b1e23?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@nizarrahman09) 
 
-[![INSTAGRAM](https://img.shields.io/badge/Instagram%20Owner-1b1e23?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guaabuzz/)
+[![INSTAGRAM](https://img.shields.io/badge/Instagram%20Owner-1b1e23?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nizarrrahman.f_/)
 
-[![OWNER](https://img.shields.io/badge/WhatsApp%20Owner-1b1e23?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6289636827082?text=Assalamualaikum+Bang) 
+[![OWNER](https://img.shields.io/badge/WhatsApp%20Owner-1b1e23?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281386945391?text=Assalamualaikum+Bang) 
 
-[![WHATSAPP BOT](https://img.shields.io/badge/WhatsApp%20BOT-1b1e23?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282171978174?text=Menu) 
+[![WHATSAPP BOT](https://img.shields.io/badge/WhatsApp%20BOT-1b1e23?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/79303901797?text=Menu) 
 
-[![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-1b1e23?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/FGmVjFYJBjjGst62qwNKJB) 
+[![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-1b1e23?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/BWHiCcMOZG39gYt1HCc2ue) 
 
 ## Donate Me
 * [`Saweria`](https://saweria.co/GuaAbuzz)
@@ -67,7 +67,7 @@ Choose your repo
 * Unduh & Instal FFmpeg [`Klik Disini`](https://ffmpeg.org/download.html) (**Jangan Lupa Tambahkan FFmpeg ke variabel lingkungan PATH**)
 
 ```bash
-git clone https://github.com/Abuzzpoet/AkameV2.0
+git clone https://github.com/nizarrahman/oh
 cd AkameV2.0
 npm install
 ```
@@ -86,7 +86,7 @@ apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
-git clone https://github.com/Abuzzpoet/AkameV2.0
+git clone https://github.com/nizarrahman/oh
 cd AkameV2.0
 npm install
 ```
