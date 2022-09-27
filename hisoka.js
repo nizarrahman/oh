@@ -1036,15 +1036,10 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
                 anu = `
 ⭔ Allah SWT.
 ⭔ Ortu Saya.
-⭔ DikaArdnt (Author).
-⭔ Sanzy YT.
-⭔ GuaAbuzz (Recode).
-⭔ Fatih A.
-⭔ Nurutomo.
-⭔ Mhankbarbar.
-⭔ ZeeoneOfc.
-⭔ Penyedia Module.
-⭔ Penyedia Res Api's.
+⭔ My Team
+⭔ -Nizar : https://instagram.com/nizarrrahman.f_
+⭔ -Adryan: https://instagram.com/adrynngrha
+⭔ -Irham: https://instagram.com/yuki_sen23
 ⭔ All My Friends.
 
 • Library : *Baileys-MD*.
@@ -1159,11 +1154,8 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
             case 'script': {
                 anu = `
                 *Info Script*     
-📚 *Base : Dika Ardnt* 
-⌲ https://github.com/DikaArdnt/Hisoka-Morou
-
-🌱 *Recode By : GuaAbuzz*
-⎙ https://github.com/Abuzzpoet/AkameV2.0`
+📚 *Nyari Sc? : Follow Dulu* 
+⌲ https://instagram.com/nizarrrahman.f_`
                 let btn = [{
                     urlButton: {
                         displayText: 'TikTok Creator',
@@ -5719,7 +5711,7 @@ Request Message: ${text}`
 │ User : ${Object.keys(global.db.data.users).length}
 │ Runtime : ${runtime(process.uptime())}
 │ Lib : Baileys-md
-│ Menuju HBD GuaAbuzz :
+│ Menuju HBD Nizar Rahman :
 │  ${menuju}
 └┬─────────────┈❖
 ┌┤「 DOWNLOADER 」
@@ -5796,7 +5788,7 @@ Request Message: ${text}`
 │ User : ${Object.keys(global.db.data.users).length}
 │ Runtime : ${runtime(process.uptime())}
 │ Lib : Baileys-md
-│ Menuju HBD GuaAbuzz :
+│ Menuju HBD Nizar Rahman :
 │  ${menuju}
 └┬─────────────┈❖
 ┌┤「 SEARCH 」
@@ -5865,7 +5857,7 @@ Request Message: ${text}`
 │ User : ${Object.keys(global.db.data.users).length}
 │ Runtime : ${runtime(process.uptime())}
 │ Lib : Baileys-md
-│ Menuju HBD GuaAbuzz :
+│ Menuju HBD Nizar Rahman :
 │  ${menuju}
 └┬─────────────┈❖
 ┌┤「 STICKER 」
@@ -5935,7 +5927,7 @@ Request Message: ${text}`
 │ User : ${Object.keys(global.db.data.users).length}
 │ Runtime : ${runtime(process.uptime())}
 │ Lib : Baileys-md
-│ Menuju HBD GuaAbuzz :
+│ Menuju HBD Nizar Rahman :
 │  ${menuju}
 └┬─────────────┈❖
 ┌┤「 ANIME 」
@@ -6054,7 +6046,7 @@ Request Message: ${text}`
 │ User : ${Object.keys(global.db.data.users).length}
 │ Runtime : ${runtime(process.uptime())}
 │ Lib : Baileys-md
-│ Menuju HBD GuaAbuzz :
+│ Menuju HBD Nizar Rahman :
 │  ${menuju}
 └┬─────────────┈❖
 ┌┤「 NSFW 」
@@ -6133,7 +6125,7 @@ Request Message: ${text}`
 │ User : ${Object.keys(global.db.data.users).length}
 │ Runtime : ${runtime(process.uptime())}
 │ Lib : Baileys-md
-│ Menuju HBD GuaAbuzz :
+│ Menuju HBD Nizar Rahman :
 │  ${menuju}
 └┬─────────────┈❖
 ┌┤「 ASUPAN 」
@@ -6207,7 +6199,7 @@ Request Message: ${text}`
 │ User : ${Object.keys(global.db.data.users).length}
 │ Runtime : ${runtime(process.uptime())}
 │ Lib : Baileys-md
-│ Menuju HBD GuaAbuzz :
+│ Menuju HBD Nizar Rahman :
 │  ${menuju}
 └┬─────────────┈❖
 ┌┤「 QUOTES 」
